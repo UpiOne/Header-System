@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bccbddbf25cd4d08aff3881e0223f59f, type: 3}
+  m_Name: DefaultHeadData
+  m_EditorClassIdentifier: 
+  MaxHealth: 999999
+  ImpactForce: 1
+  HitSounds:
+  - {fileID: 8300000, guid: fb601fd4d0bdb03409a103acaff435cf, type: 3}
+  - {fileID: 8300000, guid: ad603f1286e1de144938dd9028b70702, type: 3}
